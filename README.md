@@ -1,2 +1,2 @@
 # rifusaki.github.io
-future cv and link hub
+This is going to be, someday, a project hub and link hub. A CV too, if you will.
