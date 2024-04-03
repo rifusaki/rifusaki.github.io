@@ -4,4 +4,4 @@ Using [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes).
 
 ### To-Do
 - [ ] Find alternative Instagram feed embedding
-- [ ] Add custom domain
+- [X] Add custom domain
