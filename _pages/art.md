@@ -5,7 +5,14 @@ classes: wide
 permalink: /art/
 author_profile: true
 ---
-Instagram embed
+
+Latest [Instagram](https://www.instagram.com/rifu.scratches/) posts.
 
 
-<embed-instagram-feed url="https://v1.nocodeapi.com/rifusaki/instagram/eqgOoEiTBGzBNCEG"></embed-instagram-feed>
+<behold-widget feed-id="IGfPCxW8L5dZvx9wf1Tf"></behold-widget>
+<script>
+  if ('noModule' in HTMLScriptElement.prototype) {
+    const d=document,s=d.createElement('script');s.type='module';
+    s.src='https://w.behold.so/widget.js';d.body.appendChild(s);
+  }
+</script>
