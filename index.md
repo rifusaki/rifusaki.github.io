@@ -1,5 +1,6 @@
 ---
 layout: splash
+author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
@@ -11,20 +12,20 @@ header:
 #       url: "https://behance.net/rifusaki/"
 #     - label: "GitHub"
 #       url: "https://github.com/rifusaki"
-  caption: "Photo by me. See more on **[Behance](behance.net/rifusaki)**"
+  caption: "Mavecure. See more on **[Behance](behance.net/rifusaki)**"
 excerpt: "Also known as Martina García."
 # intro: 
 #   - excerpt: 'Welcome.'
 feature_row:
   - image_path: assets/images/photo.jpg
-    image_caption: "Cyanocorax yncas"
+    image_caption: "*Cyanocorax yncas*"
     title: "Photography"
     excerpt: "Landscape, travel, wildlife, urban and sports."
     url: "https://behance.net/rifusaki/"
     btn_label: "Portfolio"
     btn_class: "btn--primary"
   - image_path: /assets/images/github.png
-    image_caption: "Courtesy of [Darsh Yadav](https://dribbble.com/shots/13932589-GitHub-Logo-Rainbow-Color-Variation)"
+    image_caption: "[Darsh Yadav](https://dribbble.com/shots/13932589-GitHub-Logo-Rainbow-Color-Variation)"
     title: "Coding"
     excerpt: "Personal coding projects and snippets."
     url: "projects"
@@ -38,16 +39,29 @@ feature_row:
     btn_label: "Portfolio"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/tukuriva.png
+  - image_path: /assets/images/cv.png
+    title: "CV"
+    excerpt: "Created using [```linkedin-markdownificator```](https://github.com/rifusaki/linkedin-markdownificator)."
+    url: "CV"
+    btn_label: "Go there"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/gustav.jpg
+    image_caption: "Study of Gustave Doré - Charon"
     title: "Posts"
     excerpt: 'Investigations and other things.'
     url: "/posts/"
+    btn_label: "Go there"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/about.jpg
+    title: "About me"
+    excerpt: "Physics student, photographer, coder, etc."
+    url: "/about/"
     btn_label: "Go there"
     btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
+{% include feature_row id="feature_row"%}
 
-{% include feature_row id="feature_row2" type="center" %}
+{% include feature_row id="feature_row2" %}
