@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: rifusaki - martina - tukuriva
+title: rifusaki
 email: martinagmejia@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Martina García's part of the internet.
 twitter_username: rifusaki
 github_username: rifusaki
-minimal_mistakes_skin: aqua
+minimal_mistakes_skin: mint
 search: true
 
 # Build settings
@@ -56,34 +56,61 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Martina García"
+  avatar : "/assets/images/martina1.jpg"
+  bio    : "Physics student, photographer, coder, athlete, sometimes artist."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Deviantart"
+      icon: "fa-brands fa-deviantart"
+      url: "https://deviantart.com/rifusaki"
+    - label: "Discord"
+      icon: "fa-brands fa-discord"
+      url: "https://discordapp.com/users/580605491206684682"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      icon: "fa-brands fa-github"
+      url: "https://github.com/rifusaki"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      icon: "fa-brands fa-instagram"
+      url: "https://instagram.com/tukuriva"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin-in"
+      url: "https://www.linkedin.com/in/martinagmejia/"
+    - label: "Mail"
+      icon: "fa-solid fa-at"
+      url: "mailto:martinagmejia@gmail.com"
+    - label: "Tumblr"
+      icon: "fa-brands fa-tumblr"
+      url: "https://rifusaki.tumblr.com"
+    - label: "Twitter"
+      icon: "fa-brands fa-twitter"
+      url: "https://twitter.com/rifusaki"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Deviantart"
+      icon: "fa-brands fa-deviantart"
+      url: "https://deviantart.com/rifusaki"
+    - label: "Discord"
+      icon: "fa-brands fa-discord"
+      url: "https://discordapp.com/users/580605491206684682"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      icon: "fa-brands fa-github"
+      url: "https://github.com/rifusaki"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      icon: "fa-brands fa-instagram"
+      url: "https://instagram.com/tukuriva"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin-in"
+      url: "https://www.linkedin.com/in/martinagmejia/"
+    - label: "Mail"
+      icon: "fa-solid fa-at"
+      url: "mailto:martinagmejia@gmail.com"
+    - label: "Tumblr"
+      icon: "fa-brands fa-tumblr"
+      url: "https://rifusaki.tumblr.com"
+    - label: "Twitter"
+      icon: "fa-brands fa-twitter"
+      url: "https://twitter.com/rifusaki"
 
 defaults:
   # _posts
@@ -111,3 +138,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+atom_feed:
+  hide: true
