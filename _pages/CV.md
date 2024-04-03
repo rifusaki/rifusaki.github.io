@@ -6,7 +6,7 @@ permalink: /CV/
 author_profile: true
 ---
 # Martina García Mejía
-> Estudiante de física UNAL • Análisis en Python/C++/R • Fotógrafa • Género • Jugadora de ArcGIS • tukuriva
+> Estudiante de física UNAL • Análisis en Python/C++/R • Fotógrafa • Género • Jugadora de ArcGIS
 
 Bogotá, Distrito Capital, Colombia
 
