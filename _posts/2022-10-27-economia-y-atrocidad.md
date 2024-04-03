@@ -415,7 +415,7 @@ Pachón Ariza, Fabio Alberto. «Distribución de la propiedad rural en Colombia 
 
 Prunier, Gérard. _Rwanda: le génocide._ L'Harmattan, 1995.
 
-RAB. «Rwanda Agriculture and Animal Resources Development Board.» 30 de Mayo de 2016. <https://rab.gov.rw/index.php?id=236&L=1&tx_news_pi1%5Bnews%5D=243&tx_news_pi1%5Bday%5D=30&tx_news_pi1%5Bmonth%5D=5&tx_news_pi1%5Byear%5D=2016&cHash=1cdeb89074ef35f7861c3b75978a47ae> (último acceso: 21 de Junio de 2022).
+RAB. «Rwanda Agriculture and Animal Resources Development Board.» 30 de Mayo de 2016. [Access](https://rab.gov.rw/index.php?id=236&L=1&tx_news_pi1%5Bnews%5D=243&tx_news_pi1%5Bday%5D=30&tx_news_pi1%5Bmonth%5D=5&tx_news_pi1%5Byear%5D=2016&cHash=1cdeb89074ef35f7861c3b75978a47ae) (último acceso: 21 de Junio de 2022).
 
 Reyntjens, Filip. _El genocidio de los tutsi en Ruanda._ Bilbao: Universidad de Deusto, 2017.
 
@@ -549,7 +549,7 @@ Zenda, Cyril. «Home remains no-go area for many Rwandan refugees 25 years after
 
 47. _Ídem._ [↑](#footnote-ref-47)
 
-48. RAB. «Rwanda Agriculture and Animal Resources Development Board.» 30 de Mayo de 2016. <https://rab.gov.rw/index.php?id=236&L=1&tx_news_pi1%5Bnews%5D=243&tx_news_pi1%5Bday%5D=30&tx_news_pi1%5Bmonth%5D=5&tx_news_pi1%5Byear%5D=2016&cHash=1cdeb89074ef35f7861c3b75978a47ae> (último acceso: 21 de Junio de 2022). [↑](#footnote-ref-48)
+48. RAB. «Rwanda Agriculture and Animal Resources Development Board.» 30 de Mayo de 2016. [Access](https://rab.gov.rw/index.php?id=236&L=1&tx_news_pi1%5Bnews%5D=243&tx_news_pi1%5Bday%5D=30&tx_news_pi1%5Bmonth%5D=5&tx_news_pi1%5Byear%5D=2016&cHash=1cdeb89074ef35f7861c3b75978a47ae) (último acceso: 21 de Junio de 2022). [↑](#footnote-ref-48)
 
 49. MININFRA. «Infrastructure sector annual report for fiscal year 2018/19.» 2019. [↑](#footnote-ref-49)
 
