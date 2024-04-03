@@ -282,6 +282,7 @@ GEM
     uri (0.13.0)
     verbal_expressions (0.1.5)
     wdm (0.1.1)
+    webrick (1.8.1)
 
 PLATFORMS
   x64-mingw-ucrt
@@ -297,6 +298,7 @@ DEPENDENCIES
   jemoji
   tzinfo-data
   wdm (~> 0.1.0)
+  webrick
 
 BUNDLED WITH
    2.5.7
