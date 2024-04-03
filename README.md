@@ -1,2 +1,3 @@
-# rifusaki.github.io
-This is going to be, someday, a project hub and link hub. A CV too, if you will.
+# rifusaki's corner of the internet
+
+Using [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes).
