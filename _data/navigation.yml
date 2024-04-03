@@ -5,9 +5,9 @@ main:
     url: "/art/"
   - title: "Coding"
     url: "/projects/"
-  - title: "About"
-    url: /about/
   - title: "Posts"
     url: /posts/
+  - title: "About"
+    url: /about/
   - title: "CV"
     url: "/CV/"
