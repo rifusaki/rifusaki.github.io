@@ -39,9 +39,9 @@ feature_row:
     btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/tukuriva.png
-    title: "tukuriva"
-    excerpt: 'This is my personal blog, in which I publish investigations, photos, drawings and such.'
-    url: "https://tukuriva.art"
+    title: "Posts"
+    excerpt: 'Investigations and other things.'
+    url: "/posts/"
     btn_label: "Go there"
     btn_class: "btn--primary"
 ---
