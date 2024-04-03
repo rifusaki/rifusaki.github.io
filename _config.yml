@@ -154,3 +154,6 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+
+head_scripts:
+  - https://unpkg.com/@nocodeapi/embed-instagram-feed@latest/embed-instagram-feed.js
