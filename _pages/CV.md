@@ -50,10 +50,10 @@ Herramienta escrita en Python para exportar todos los datos del perfil de Linked
 Proyecto fotográfico para la Cátedra de Estudios de Género. Quince fotos mostrando escenas familiares atravesadas por el género.\
 <small>Ilustración digital · Creatividad · Fotografía digital · Diseño gráfico</small>
 
-### Implementación de una discretizacion de la ecuación de difusión por medio de diferencias finitas
+### [Implementación de una discretizacion de la ecuación de difusión por medio de diferencias finitas](/portfolio/ecuacion-de-difusion/)
 <p align="right"><i>abr. 2023 - jun. 2023</i></p>
 
-Se presenta un enfoque numérico para la resolución de la ecuación de difusión utilizando diferencias finitas. Se utiliza la primera ley de Fick para establecer la relación entre el flujo y el gradiente de concentración. Mediante la discretización de la ecuación, se divide el espacio y el tiempo en una malla de puntos y se aproximan las derivadas parciales. Esto conduce a un sistema de ecuaciones lineales que describe la evolución de la concentración a lo largo del tiempo. Los resultados demuestran que la aproximación numérica por diferencias finitas es una herramienta efectiva para simular procesos de difusión y transferencia de calor en diversas áreas científicas y tecnológicas.Coautoría con Manuel Angel García.\
+Se presenta un enfoque numérico para la resolución de la ecuación de difusión utilizando diferencias finitas. Se utiliza la primera ley de Fick para establecer la relación entre el flujo y el gradiente de concentración. Mediante la discretización de la ecuación, se divide el espacio y el tiempo en una malla de puntos y se aproximan las derivadas parciales. Esto conduce a un sistema de ecuaciones lineales que describe la evolución de la concentración a lo largo del tiempo. Los resultados demuestran que la aproximación numérica por diferencias finitas es una herramienta efectiva para simular procesos de difusión y transferencia de calor en diversas áreas científicas y tecnológicas. Coautoría con Manuel Angel García.\
 <small>LaTeX · Modelado de sistemas físicos · Redacción de textos académicos · Python</small>
 
 ### [La economía y la atrocidad: guerra en Colombia y Ruanda](/blog/economia-y-atrocidad/)
