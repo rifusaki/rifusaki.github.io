@@ -12,7 +12,7 @@ Cuando publiqué una crítica de la decisión de World Athletics respecto a su d
 
 <!--more-->
 
-> Originalmente publicado en [Twitter](https://twitter.com/frembia/status/1640791285194805266).
+> Originalmente publicado en Twitter, adaptado para lectura como artículo.
 
 Ahora sí, vamos por partes. 
 
