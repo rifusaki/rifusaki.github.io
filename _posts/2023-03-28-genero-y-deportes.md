@@ -53,18 +53,13 @@ Ahora, ahí no termina la historia.
 
 ¿Eso les parece justo?[^4]
 
-¿O entonces qué hacemos con las personas que cuentan con el gen ACTN3, ideal para correr, como Usain Bolt? ¿Las ponemos en otra categoría?[^5] ¿O han notado que las finales olímpicas de atletismo siempre las dominan personas africanas o afrodescendientes? ¿Comenzamos división racial para hacerlo más justo? ¿Y el tema de la altura en baloncesto? En la imagen, las selecciones femeninas de Estados Unidos y El Salvador. Las gringas ganaron 116-9. Nunca he escuchado a gente hablar mucho de justicia allí. ... y eso tiene una razón simple.
+¿O entonces qué hacemos con las personas que cuentan con el gen ACTN3, ideal para correr, como Usain Bolt? ¿Las ponemos en otra categoría?[^5] ¿O han notado que las finales olímpicas de atletismo siempre las dominan personas africanas o afrodescendientes? ¿Comenzamos división racial para hacerlo más justo? 
 
-<figure class="third">
-  <a href="/assets/images/genero-deportes/athlete-w.jpg">
-  <img src="/assets/images/genero-deportes/athlete-w.jpg"></a>
+[![styled-image](/assets/images/genero-deportes/athlete-w.jpg){: .align-center style="width: 75%;"}](/assets/images/genero-deportes/athlete-w.jpg)
 
-  <a href="/assets/images/genero-deportes/athlete-m.jpg">
-  <img src="/assets/images/genero-deportes/athlete-m.jpg"></a>
+¿Y el tema de la altura en baloncesto? En la imagen, las selecciones femeninas de Estados Unidos y El Salvador. Las gringas ganaron 116-9. Nunca he escuchado a gente hablar mucho de justicia allí. ... y eso tiene una razón simple.
 
-  <a href="/assets/images/genero-deportes/basket.jpg">
-  <img src="/assets/images/genero-deportes/basket.jpg"></a>
-</figure>
+[![styled-image](/assets/images/genero-deportes/basket.jpg){: .align-center style="width: 75%;"}](/assets/images/genero-deportes/basket.jpg)
 
 ## Parte III: 🌟 El deporte es un espectáculo 🌟
 
@@ -74,15 +69,11 @@ Alcanzar el nivel de rendimiento sobrehumano que les atletas olímpicos necesita
 
 ¿La mejor parte de los Olímpicos de escalada, si me preguntas? Que haya ganado Alberto Ginés y que Narasaki y Ondra se hayan quedado por fuera del podio. Jamás me lo habría imaginado. Esos dos son simplemente los mejores en roca y boulder. Pero el espectáculo fue impresionante.
 
+[![styled-image](/assets/images/genero-deportes/gines.jpg){: .align-center style="width: 75%;"}](/assets/images/genero-deportes/gines.jpg)
+
 Por su lado, Janja Garnbret arrasó como esperábamos de la mejor del mundo. Muy seguramente habría podido con los problemas de la categoría masculina.
 
-<figure class="half">
-  <a href="/assets/images/genero-deportes/gines.jpg">
-  <img src="/assets/images/genero-deportes/gines.jpg"></a>
-
-  <a href="/assets/images/genero-deportes/janja.jpg">
-  <img src="/assets/images/genero-deportes/janja.jpg"></a>
-</figure>
+[![styled-image](/assets/images/genero-deportes/janja.jpg){: .align-center style="width: 75%;"}](/assets/images/genero-deportes/janja.jpg)
 
 ¿Pero dónde queda la justicia entonces? Una buena pregunta, porque el espectáculo de ver nadar a Phelps está en ver cómo arrasa con la competencia de profesionales. Ver a les atletas más rápidos, que superan con creces sus competidores blancxs.
 
