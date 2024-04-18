@@ -1,6 +1,5 @@
 ---
 title: "Sobre el género en los deportes"
-excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
@@ -9,14 +8,14 @@ tags:
 tagline: ""
 excerpt: "Cuando publiqué una crítica de la decisión de World Athletics respecto a su decisión de prohibir la presencia de mujeres trans en competencias..."
 header:
-  overlay_image: /assets/images/genero-deportes/header.jpg
-  overlay_filter: 0.5
+  # overlay_image: /assets/images/genero-deportes/header.jpg
+  # overlay_filter: 0.5
   teaser: /assets/images/genero-deportes/header.jpg
 --- 
 
-Cuando publiqué una crítica de la decisión de World Athletics respecto a su decisión de prohibir la presencia de mujeres trans en competencias, en Instagram algunas personas me rebotaron. Ahora voy a hacer un texto sobre por qué esta decisión es la peor que pudo haber tomado World Athletics y demuestra el nivel de ignorancia, transfobia y misoginia que domina allá.
+[![styled-image](/assets/images/genero-deportes/header.jpg){: .align-center style="width: 100%; border-radius: 10px;"}](/assets/images/genero-deportes/header.jpg)
 
-<!--more-->
+Cuando publiqué una crítica de la decisión de World Athletics respecto a su decisión de prohibir la presencia de mujeres trans en competencias, en Instagram algunas personas me rebotaron. Ahora voy a hacer un texto sobre por qué esta decisión es la peor que pudo haber tomado World Athletics y demuestra el nivel de ignorancia, transfobia y misoginia que domina allá.
 
 > Originalmente publicado en Twitter, adaptado para lectura como artículo.
 

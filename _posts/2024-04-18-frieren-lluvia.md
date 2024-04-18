@@ -7,10 +7,12 @@ tags:
 tagline: ""
 excerpt: "Resulta que hace poco me terminé de ver [*Sousou no Frieren*](https://myanimelist.net/anime/52991/Sousou_no_Frieren), y honestamente extrañaba ya esta sensación de haber presenciado una obra maestra."
 header:
-  overlay_image: /assets/images/frieren-lluvia/vlcsnap-2024-04-17-00h01m23s014.png
-  overlay_filter: 0.5
+  # overlay_image: /assets/images/frieren-lluvia/vlcsnap-2024-04-17-00h01m23s014.png
+  # overlay_filter: 0.5
   teaser: /assets/images/frieren-lluvia/vlcsnap-2024-04-17-00h01m23s014.png
 ---
+
+[![styled-image](/assets/images/frieren-lluvia/vlcsnap-2024-04-17-00h01m23s014.png){: .align-center style="width: 100%; border-radius: 10px;"}](/assets/images/frieren-lluvia/vlcsnap-2024-04-17-00h01m23s014.png)
 
 Resulta que hace poco me terminé de ver [*Sousou no Frieren*](https://myanimelist.net/anime/52991/Sousou_no_Frieren), y honestamente extrañaba ya esta sensación de haber presenciado una obra maestra. Con un apartado visual impecable, banda sonora que se cuenta dentro de mis favoritas junto con titanes como Kevin Penkin y Yuki Kajiura, y un ritmo narrativo magníficamente ejecutado, *Sousou no Frieren* tiene todas las herramientas para contar su crónica. Extrañaba ya el sentir que lo que estoy viendo es un mundo real con sus propias reglas, cultura, historia e idiosincrasias. Tengo la impresión de haber conocido algo de ese vasto continente con elfos, enanos, monstruos y demonios; un mundo donde la raza humana no es la única criatura inteligente y la magia hace parte del devenir cotidiano.
 

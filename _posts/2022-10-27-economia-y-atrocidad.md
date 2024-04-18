@@ -8,10 +8,12 @@ tags:
 tagline: ""
 excerpt: "Un paralelismo de las causas, consecuencias y procesos de reconstrucción posconflicto de Colombia y Ruanda."
 header:
-  overlay_image: /assets/images/ruanda-2022/memorial.jpg
-  overlay_filter: 0.5
+  # overlay_image: /assets/images/ruanda-2022/memorial.jpg
+  # overlay_filter: 0.5
   teaser: /assets/images/ruanda-2022/memorial.jpg
 ---
+
+[![styled-image](/assets/images/ruanda-2022/memorial.jpg){: .align-center style="width: 100%; border-radius: 10px;"}](/assets/images/ruanda-2022/memorial.jpg)
 
 > [Leer en PDF](https://github.com/rifusaki/rifusaki.github.io/blob/main/assets/files/La%20economia%20y%20la%20atrocidad%20guerra%20en%20Ruanda%20y%20Colombia.pdf)
 
