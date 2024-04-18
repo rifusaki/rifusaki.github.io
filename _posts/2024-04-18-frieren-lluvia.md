@@ -30,8 +30,8 @@ El inicio del primer capítulo, de hecho, tiene un montaje fenomenal que ilustra
   <a href="/assets/images/frieren-lluvia/vlcsnap-2024-04-17-23h24m15s190.png">
   <img src="/assets/images/frieren-lluvia/vlcsnap-2024-04-17-23h24m15s190.png"></a>
 
-  <a href="/assets/images/frieren-lluvia/vlcsnap-2024-04-17-23h24m15s190.png">
-  <img src="/assets/images/frieren-lluvia/vlcsnap-2024-04-17-23h24m15s190.png"></a>
+  <a href="/assets/images/frieren-lluvia/vlcsnap-2024-04-17-23h24m51s076.png">
+  <img src="/assets/images/frieren-lluvia/vlcsnap-2024-04-17-23h24m51s076.png"></a>
   <!-- <figcaption>Gallery with a two image per row grid.</figcaption> -->
 </figure>
 
