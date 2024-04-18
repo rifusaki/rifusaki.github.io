@@ -6,6 +6,12 @@ categories:
 tags:
   - genero
   - opinion
+tagline: ""
+excerpt: "Cuando publiqué una crítica de la decisión de World Athletics respecto a su decisión de prohibir la presencia de mujeres trans en competencias..."
+header:
+  overlay_image: /assets/images/genero-deportes/header.jpg
+  overlay_filter: 0.5
+  teaser: /assets/images/genero-deportes/header.jpg
 --- 
 
 Cuando publiqué una crítica de la decisión de World Athletics respecto a su decisión de prohibir la presencia de mujeres trans en competencias, en Instagram algunas personas me rebotaron. Ahora voy a hacer un texto sobre por qué esta decisión es la peor que pudo haber tomado World Athletics y demuestra el nivel de ignorancia, transfobia y misoginia que domina allá.

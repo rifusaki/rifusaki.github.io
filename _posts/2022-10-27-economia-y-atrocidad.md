@@ -1,18 +1,21 @@
 ---
 title: "La economía y la atrocidad: guerra en Colombia y Ruanda"
-excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
   - historia
   - investigacion
+tagline: ""
+excerpt: "Un paralelismo de las causas, consecuencias y procesos de reconstrucción posconflicto de Colombia y Ruanda."
+header:
+  overlay_image: /assets/images/ruanda-2022/memorial.jpg
+  overlay_filter: 0.5
+  teaser: /assets/images/ruanda-2022/memorial.jpg
 ---
 
 > [Leer en PDF](https://github.com/rifusaki/rifusaki.github.io/blob/main/assets/files/La%20economia%20y%20la%20atrocidad%20guerra%20en%20Ruanda%20y%20Colombia.pdf)
 
 El conflicto armado interno en Colombia ha sido objeto de intenso estudio por académicos en esencialmente todos los aspectos posibles: estamos hablando de una de las guerras más largas del hemisferio occidental, durando casi 60 años. El genocidio de Ruanda, en 1994, no ha tenido ese tratamiento, a pesar de ser uno de los más atroces eventos acontecidos: conllevó el asesinato del 70% de la población de la tribu Tutsi. El presente trabajo pretende hacer un paralelismo, visto desde la historia económica, de las causas fundamentales, las consecuencias y los procesos de reconstrucción posconflicto de ambas naciones, considerando que la guerra civil en Ruanda terminó en 1995, mientras que el Acuerdo de paz con las FARC-EP en Colombia se firmó en el 2016. Así pues, se estudiará la historia antes y después de la terminación del conflicto en ambos países, identificando elementos comunes y diferenciadores para hacer un ejercicio de historia comparada para extraer aprendizajes mutuos para el posconflicto. A primera vista, una guerra prolongada de baja intensidad no parece tener muchas similitudes con una guerra civil de 5 años, pero la originalidad del artículo se encuentra precisamente allí. No se ha hecho una comparación similar hasta la fecha. Se encuentran tres factores fundamentales que causan un conflicto y cuyas soluciones entrelazadas pueden ser la receta para un posconflicto exitoso y un desarrollo económico: un Estado presente y eficiente (aunque no necesariamente democrático); un proceso de verdad y reconciliación nacional que restablezca los lazos de confianza y comerciales entre la población; y la remoción de ciertas barreras sistémicas que no permiten el desarrollo de ciertos grupos y, más bien, promueven el conflicto.
-
-<!--more-->
 
 **Introducción**
 
