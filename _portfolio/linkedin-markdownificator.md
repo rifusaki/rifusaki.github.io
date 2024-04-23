@@ -22,6 +22,7 @@ sidebar:
 #   - url: /assets/images/unsplash-gallery-image-3.jpg
 #     image_path: assets/images/unsplash-gallery-image-3-th.jpg
 #     alt: "placeholder image 3"
+order: 2
 ---
 
 As the name suggests, you can use this tool to export your LinkedIn profile to Markdown. From there you can export it to PDF however you like.

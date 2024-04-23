@@ -12,6 +12,7 @@ sidebar:
     text: "[alhazacod/heat_eq_t_dependant_boundary](https://github.com/alhazacod/heat_eq_t_dependant_boundary)"
 #   - title: "Responsibilities"
 #     text: "Reuters try PR stupid commenters should isn't a business model"
+order: 1
 ---
 
 > [Leer texto completo](https://github.com/rifusaki/rifusaki.github.io/blob/main/assets/files/Ecuacion%20de%20difusion.pdf)
@@ -20,8 +21,6 @@ sidebar:
 *Departamento de Física, Universidad Nacional de Colombia, Sede Bogotá,
 Bogotá, Colombia.*  
 13/06/2023
-
-</div>
 
 *Email: mangarciama@unal.edu.co<sup>1</sup>, mgarciamej@unal.edu.co<sup>2</sup>*  
 
