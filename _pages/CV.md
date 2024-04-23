@@ -32,9 +32,13 @@ Redacté y traduje textos académicos y técnico en diversas áreas del conocimi
 
 
 ## Certificados
+### Aspectos Básicos de Datos
+<p> <span style="float:left;"><b>SENATEC</b></span> <span style="float:right;"><i>abr. 2024</i></span> </p>\
+<small>Tableau · SQL · Análisis de datos</small>
+
 ### Introduction to GIS Mapping
 <p> <span style="float:left;"><b>University of Toronto</b></span> <span style="float:right;"><i>mar. 2023</i></span> </p>\
-<small>Sistemas de Información Geográfica · ArcGIS</small>
+<small>Sistemas de Información Geográfica · ArcGIS · QGIS</small>
 
 ### Programa Especializado | Python for Everybody
 <p> <span style="float:left;"><b>University of Michigan</b></span> <span style="float:right;"><i>sept. 2021</i></span> </p>\
