@@ -32,9 +32,9 @@ Redacté y traduje textos académicos y técnico en diversas áreas del conocimi
 
 
 ## Certificados
-### Introduction to Cloud Computing
-<p> <span style="float:left;"><b>IBM</b></span> <span style="float:right;"><i>abr. 2024</i></span> </p>\
-<small>Computación en la nube · DevOps</small>
+### Developing Front-End Apps with React
+<p> <span style="float:left;"><b>IBM</b></span> <span style="float:right;"><i>may. 2024</i></span> </p>\
+<small>React.js · JavaScript · TypeScript · Desarrollo front end</small>
 
 ### Aspectos Básicos de Datos
 <p> <span style="float:left;"><b>SENATEC</b></span> <span style="float:right;"><i>abr. 2024</i></span> </p>\
@@ -47,6 +47,13 @@ Redacté y traduje textos académicos y técnico en diversas áreas del conocimi
 ### Programa Especializado | Python for Everybody
 <p> <span style="float:left;"><b>University of Michigan</b></span> <span style="float:right;"><i>sept. 2021</i></span> </p>\
 <small>SQL · Visualización de datos · Bases de datos · Computación · Microsoft Office · Web scraping · Análisis de datos · Python · Tecnología de la información · Modelado de datos</small>
+
+
+## Voluntariado
+<h3>Traductora - UNDP Sustainable Energy Hub</h3>
+<p align="right"><i>may. 2024 - actualidad</i></p>
+
+Traduzco contenido relacionado con el medio ambiente y la transición a fuentes de energía limpia de inglés a español.\
 
 
 ## Proyectos
@@ -78,9 +85,6 @@ El conflicto armado interno en Colombia ha sido objeto de intenso estudio por ac
 ## Cursos
 
 ### Cátedra nacional: Juntas, juntes y juntos. Apuestas desde los estudios feministas y de género
-<p align="right"><small>Asociada con Universidad Nacional de Colombia</small></p>
-
-### Herramientas computacionales
 <p align="right"><small>Asociada con Universidad Nacional de Colombia</small></p>
 
 ### Historia económica general
