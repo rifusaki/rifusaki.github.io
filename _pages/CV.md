@@ -32,6 +32,14 @@ Redacté y traduje textos académicos y técnico en diversas áreas del conocimi
 
 
 ## Certificados
+### Developing AI Applications with Python and Flask
+<p> <span style="float:left;"><b>IBM</b></span> <span style="float:right;"><i>may. 2024</i></span> </p>\
+<small>Flask · Python · Desarrollo web</small>
+
+### Developing Back-End Apps with Node.js and Express
+<p> <span style="float:left;"><b>IBM</b></span> <span style="float:right;"><i>may. 2024</i></span> </p>\
+<small>Node.js · Express.js · JavaScript</small>
+
 ### Developing Front-End Apps with React
 <p> <span style="float:left;"><b>IBM</b></span> <span style="float:right;"><i>may. 2024</i></span> </p>\
 <small>React.js · JavaScript · TypeScript · Desarrollo front end</small>
@@ -43,6 +51,10 @@ Redacté y traduje textos académicos y técnico en diversas áreas del conocimi
 ### GIS Data Acquisition and Map Design
 <p> <span style="float:left;"><b>University of Toronto</b></span> <span style="float:right;"><i>abr. 2024</i></span> </p>\
 <small>Sistemas de Información Geográfica · ArcGIS · QGIS</small>
+
+### Introduction to Cloud Computing
+<p> <span style="float:left;"><b>IBM</b></span> <span style="float:right;"><i>abr. 2024</i></span> </p>\
+<small>Computación en la nube</small>
 
 ### Programa Especializado | Python for Everybody
 <p> <span style="float:left;"><b>University of Michigan</b></span> <span style="float:right;"><i>sept. 2021</i></span> </p>\
