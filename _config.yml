@@ -17,9 +17,10 @@ title: rifusaki
 url: https://rifusaki.com
 email: martinagmejia@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Martina García's part of the internet.
+  Someone's corner of the internet.
 twitter_username: rifusaki
 github_username: rifusaki
+# logo: /assets/images/home-header.jpg
 minimal_mistakes_skin: mint
 search: true
 
