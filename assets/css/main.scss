@@ -27,3 +27,7 @@ html {
       font-size: 18px; // change to whatever
     }
   }
+
+.layout--post .page__content {
+  font-size: calc(1em - 1pt);
+}

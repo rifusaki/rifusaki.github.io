@@ -11,15 +11,25 @@ header:
   # overlay_image: /assets/images/ruanda-2022/memorial.jpg
   # overlay_filter: 0.5
   teaser: /assets/images/ruanda-2022/memorial.jpg
+toc: true
+toc_label: "Navegación"
+toc_sticky: true
 ---
 
-[![styled-image](/assets/images/ruanda-2022/memorial.jpg){: .align-center style="width: 100%; border-radius: 10px;"}](/assets/images/ruanda-2022/memorial.jpg)
+![Memorial a las víctimas del genocidio en Ruanda.](/assets/images/ruanda-2022/memorial.jpg){: .align-center style="width: 100%; border-radius: 12px;"}
 
-> [Leer en PDF](https://github.com/rifusaki/rifusaki.github.io/blob/main/assets/files/La%20economia%20y%20la%20atrocidad%20guerra%20en%20Ruanda%20y%20Colombia.pdf)
+[Descargar el artículo en PDF ↗](https://github.com/rifusaki/rifusaki.github.io/blob/main/assets/files/La%20economia%20y%20la%20atrocidad%20guerra%20en%20Ruanda%20y%20Colombia.pdf){: .btn .btn--primary .mb-5 }
 
-El conflicto armado interno en Colombia ha sido objeto de intenso estudio por académicos en esencialmente todos los aspectos posibles: estamos hablando de una de las guerras más largas del hemisferio occidental, durando casi 60 años. El genocidio de Ruanda, en 1994, no ha tenido ese tratamiento, a pesar de ser uno de los más atroces eventos acontecidos: conllevó el asesinato del 70% de la población de la tribu Tutsi. El presente trabajo pretende hacer un paralelismo, visto desde la historia económica, de las causas fundamentales, las consecuencias y los procesos de reconstrucción posconflicto de ambas naciones, considerando que la guerra civil en Ruanda terminó en 1995, mientras que el Acuerdo de paz con las FARC-EP en Colombia se firmó en el 2016. Así pues, se estudiará la historia antes y después de la terminación del conflicto en ambos países, identificando elementos comunes y diferenciadores para hacer un ejercicio de historia comparada para extraer aprendizajes mutuos para el posconflicto. A primera vista, una guerra prolongada de baja intensidad no parece tener muchas similitudes con una guerra civil de 5 años, pero la originalidad del artículo se encuentra precisamente allí. No se ha hecho una comparación similar hasta la fecha. Se encuentran tres factores fundamentales que causan un conflicto y cuyas soluciones entrelazadas pueden ser la receta para un posconflicto exitoso y un desarrollo económico: un Estado presente y eficiente (aunque no necesariamente democrático); un proceso de verdad y reconciliación nacional que restablezca los lazos de confianza y comerciales entre la población; y la remoción de ciertas barreras sistémicas que no permiten el desarrollo de ciertos grupos y, más bien, promueven el conflicto.
+El conflicto armado interno en Colombia ha sido objeto de intenso estudio por académicos en esencialmente todos los aspectos posibles: estamos hablando de una de las guerras más largas del hemisferio occidental, durando casi 60 años. El genocidio de Ruanda, en 1994, no ha tenido ese tratamiento, a pesar de ser uno de los más atroces eventos acontecidos: conllevó el asesinato del 70% de la población de la tribu Tutsi. El presente trabajo pretende hacer un paralelismo, visto desde la historia económica, de las causas fundamentales, las consecuencias y los procesos de reconstrucción posconflicto de ambas naciones, considerando que la guerra civil en Ruanda terminó en 1995, mientras que el Acuerdo de paz con las FARC-EP en Colombia se firmó en el 2016. Así pues, se estudiará la historia antes y después de la terminación del conflicto en ambos países, identificando elementos comunes y diferenciadores para hacer un ejercicio de historia comparada para extraer aprendizajes mutuos para el posconflicto. A primera vista, una guerra prolongada de baja intensidad no parece tener muchas similitudes con una guerra civil de 5 años, pero la originalidad del artículo se encuentra precisamente allí. No se ha hecho una comparación similar hasta la fecha.
 
-**Introducción**
+> **Tres factores económicos que determinan el posconflicto**
+>
+> - Un Estado presente y eficiente (aunque no necesariamente democrático).
+> - Procesos de verdad y reconciliación que reconstruyan la confianza.
+> - Remoción de barreras sistémicas que bloquean el desarrollo y alimentan la violencia.
+{: .notice--info}
+
+## Introducción
 
 La humanidad lleva un conflicto con ella dondequiera que vaya, y las atrocidades que ha cometido bajo una bandera o idea son tan extensas como las guerras que ha librado. Esta amplitud con la que se ha desdoblado el conflicto en el tiempo y el espacio ha producido una diversidad dada por la unicidad de cada pugna y sus participantes. Sin embargo, el elemento humano las une a todas ellas: el interés, la confianza, la imitación, el tribalismo, la reciprocidad y el altruismo son, entre otros, elementos básicos de nuestro comportamiento<sup>[\[1\]](#footnote-1)</sup>. Las culturas, mucho más localizadas, se construyen sobre estos componentes. Es posible, pues, llevar a cabo un paralelismo entre distintos conflictos con el fin de poder comprender sus causas fundamentales, sus devastadoras consecuencias y cómo prevenirlos.
 
@@ -29,28 +39,37 @@ Colombia, por otro lado, ha sufrido un conflicto de baja intensidad desde la dé
 
 Así pues, el presente trabajo pretende contrastar las causas en materia principalmente económica (fuertemente relacionada con el aspecto sociopolítico) de las guerras de ambos países, además de sus efectos y de intentar comprender los aciertos y fallas de cada uno en su proceso de reconstrucción como país para posibilitar un proceso de aprendizaje mutuo.
 
-**1\. Economía y conflicto**
+## 1. Economía y conflicto
 
-Para comenzar a comprender los efectos del conflicto, la tragedia y la atrocidad en las relaciones económicas de una sociedad, Collier<sup>[\[7\]](#footnote-7)</sup> identifica tres consecuencias inmediatas que afectan directamente el crecimiento económico de: primero, la destrucción o fuga de capital nacional; segundo, la militarización que desvía los recursos normalmente utilizados en productividad hacia el sector de defensa y seguridad; y tercero, un mayor costo de transporte debido a los daños a la infraestructura física del país. Todo esto, claro, además del costo humano que disminuye el capital de trabajo (más difícil de recuperar) y deteriora el tejido social, menoscabando la confianza en las instituciones y en los grupos (étnicos, políticos, etc.) exteriores lo cual, a su vez, impacta negativamente las relaciones de intercambio entre ellos<sup>[\[8\]](#footnote-8)</sup>.
+Para comenzar a comprender los efectos del conflicto, la tragedia y la atrocidad en las relaciones económicas de una sociedad, Collier<sup>[\[7\]](#footnote-7)</sup> identifica tres consecuencias inmediatas que afectan directamente el crecimiento económico:
+
+1. **Destrucción o fuga de capital nacional.**
+2. **Militarización de la economía**, que desvía recursos productivos hacia defensa y seguridad.
+3. **Aumento en los costos de transporte** por el daño a la infraestructura.
+
+Todo esto, claro, además del costo humano que disminuye el capital de trabajo (más difícil de recuperar) y deteriora el tejido social, menoscabando la confianza en las instituciones y en los grupos (étnicos, políticos, etc.) exteriores lo cual, a su vez, impacta negativamente las relaciones de intercambio entre ellos<sup>[\[8\]](#footnote-8)</sup>.
 
 No obstante, estas consecuencias solamente son aplicables en el caso de economías formalizadas, que no es el único caso que veremos en este trabajo. Por tanto, es necesario mencionar un modelo alternativo. En economías mixtas o con un alto grado de informalidad e ilegalidad, Schneider defiende que las actividades informales, ilegales o “grises” ven un crecimiento en presencia de la violencia a través de un amplio estudio de la economía informal varios países.<sup>[\[9\]](#footnote-9)</sup>
 
 Estas consecuencias se deben analizar, entonces, en los casos puntuales concernientes a este trabajo.
 
-**1.1. Caso I: Ruanda**
+### 1.1 Caso I: Ruanda
+
 La historia de lo que sucedió antes y durante aquellos fatídicos 100 días de 1994 en el país centroafricano aún no encuentra un consenso total, ni siquiera dentro de la academia. Es un debate aún muy vivo. Ahora, el presente texto trabajará sobre los hechos establecidos para intentar evitar imprecisiones y sesgos.
 
 [![styled-image](/assets/images/ruanda-2022/identidad.jpg){: .align-center style="width: 50%;"}](/assets/images/ruanda-2022/identidad.jpg)
 Figura 1. Tarjeta de identidad con etnia de la época belga.<sup>12</sup>
 {: .align-caption}
 
-**1.1.1. Tribus y división**
+#### 1.1.1 Tribus y división
+
 
 Para comprender las relaciones económicas dentro de Ruanda es vital entender cómo se construye la sociedad ruandesa. Por lo general se menciona la existencia de dos tribus antagónicas: Bahutu y Batutsi, ignorando la existencia de la pequeña tribu Batwa (que representaba el 1% de la población; y además Reyntjens<sup>[\[10\]](#footnote-10)</sup> y Prunier<sup>[\[11\]](#footnote-11)</sup> nos indican que, incluso al final de la época precolonial, había una importante homogeneidad espacial, cultural y lingüística entre las tres tribus. Convivían juntas y eran normales las uniones entre personas de tribus distintas. Los orígenes exactos de esta división son inciertos, pero Vansina<sup>[\[12\]](#footnote-12)</sup> muestra su complejidad: se constituyeron gradualmente como roles políticos, económicos y militares; pero resultarían siendo indicadores de estatus al final del período precolonial<sup>8</sup>. Esto, entonces, se vería reflejado en la vida habitual como un antagonismo entre ambas tribus. De cierto modo, lo que comenzaron siendo tribus se configuraron como clases bien diferenciadas, siendo los Tutsi la clase más pequeña (siendo el 30% de la población) y privilegiada.
 
 Durante la colonia belga, los Tutsi se afianzaron como esta clase dominante, aliada del mandato belga (vale aclarar que durante el previo protectorado alemán no hizo mayor cosa), mientras los Hutu ejercían el rol de mano de obra manual, y las divisiones se acentuaron con la introducción de un documento oficial de etnicidad<sup>[\[13\]](#footnote-13)</sup>. Así habría una resonancia con el ya presente antagonismo entre tribus debido a estas cuestiones de clase y poder. El subsecuente régimen Hutu de Juvénal Habyarimana (1973 – 1994), sumado a otros factores, llevaría a la escalada de violencia culminando en el genocidio de los Tutsi.
 
-**1.1.2. El torbellino de la crisis al genocidio**
+#### 1.1.2 El torbellino de la crisis al genocidio
+
 
 Para la década de los noventa la crisis se había agudizado en grandes proporciones. Sin embargo, no se ha hablado aún de la influencia de la situación económica en esto. No fue poca. Veamos, entonces, los indicadores de desarrollo económico de la época:
 
@@ -63,6 +82,8 @@ Para la década de los noventa la crisis se había agudizado en grandes proporci
 | Agricultura | 1966-90 | 4.52 |
 | Exportaciones | 1961-90 | 7.51 |
 | Urbanización | 1961-90 | 5.47 |
+
+{: .table .table-sm .table-striped}
 
 Tabla 1. Elaboración propia con datos del Banco Mundial<sup>[\[14\]](#footnote-14)</sup>
 
@@ -78,11 +99,13 @@ Puesto que los ingresos del café (y el té) no se habían reinvertido en la tie
 
 Una respuesta deficiente por parte del gobierno, en la que se guardó la reserva alimentaria para las regiones norteñas y uso militar (la _ruriganiza_ afectó principalmente las provincias del sur, favorables a la guerrilla pro-Tutsi Frente Patriótico Ruandés – RPF) causó el desplazamiento de más de 10.000 refugiados y culminaría en el inicio de la guerra civil con la invasión del RPF en 1990<sup>[\[20\]](#footnote-20)</sup>. La radicalización de la población Tutsi a través de la propaganda de élites norteñas y grupos Hutu radicales con influencia considerable como los _akazu_ (centrado alrededor de la primera dama) y los _Interahamwe_ llevó entonces a una espiral de violencia que alcanzaría su punto álgido en abril de 1994 tras el asesinato de Habyarimana y el presidente de la vecina Burundi, Cyprien Ntaryamira. Aún hoy no es claro quiénes son los autores de este atentado.
 
-**1.2. Caso II: Colombia**
+### 1.2 Caso II: Colombia
+
 
 En la otra mano, Colombia cuenta con la ventaja de poseer una literatura más amplia y datos más abundantes de lo sucedido en su largo conflicto. Así pues, para comprender la evolución de las relaciones económicas y de poder en la conflictuada sociedad colombiana es vital primero hacer un breve recuento histórico.
 
-**1.2.1. La cuestión de la tierra**
+#### 1.2.1 La cuestión de la tierra
+
 
 La producción económica y las relaciones de poder en Colombia han estado históricamente ligadas con la tenencia y el trabajo de la tierra, un escenario que ha conservado su estructura desde, esencialmente, la época colonial.
 
@@ -102,7 +125,8 @@ Sin embargo, ¿qué significa esto en términos económicos? ¿y cómo influye e
 
 Esto, en términos prácticos, implica una palpable desigualdad social y precariedad en el campo. Fueron estas condiciones las que llevaron a la creación de las guerrillas de tendencia marxista; siendo una prueba de ello que el segundo punto mencionado en el Manifiesto de Simacota, el programa político fundacional del Ejército de Liberación Nacional (ELN), trata precisamente de una “revolución agraria” redistributiva.<sup>[\[26\]](#footnote-26)</sup> No sobra mencionar que estos grupos insurgentes tenían, entonces, ciertas bases sociales populares sobre las que sustentaban su accionar.
 
-**1.2.2. Vacíos, guerrillas, paracos y narcos**
+#### 1.2.2 Vacíos, guerrillas, paracos y narcos
+
 
 Hay, además de la concentración de la tierra, otra constante histórica que influyó masivamente en la degeneración del conflicto armado: la ausencia estatal en las regiones. Esto generó una gigantesca expansión territorial de las guerrillas (y la subsecuente creación de los variados grupos paramilitares de derecha) y el surgimiento de algo que cambiaría las dinámicas sociales y del conflicto permanentemente: el narcotráfico. La complejidad de los efectos de los cultivos ilícitos se ha merecido una gran producción investigativa; razón por la cual debo aclarar que acá apenas rayo la superficie del tema.
 
@@ -125,7 +149,8 @@ Los cultivos de marihuana y coca encontraron un escenario casi ideal: grandes ex
 
 El auge de esta economía oculta significó entonces una jugosa fuente de ingresos a los grupos armados, lo que se traducía en una mejor y más abundante dotación armada y una subsecuente intensificación de las acciones armadas y, por tanto, el conflicto en general. Vale aclarar que, de acuerdo con el Centro Nacional de Memoria Histórica, aunque los grupos insurgentes se financiaban de las ganancias del narcotráfico, nunca se consolidaron alianzas con los narcotraficantes; mientras que los grupos paramilitares sí tenían un contacto más estrecho al punto de coordinar la exportación del producto.<sup>[\[30\]](#footnote-30)</sup>
 
-**1.2.3. El peso de la violencia**
+#### 1.2.3 El peso de la violencia
+
 
 Tomando todo lo anterior como base, la comprensión de la economía colombiana en tal conflicto es, cuanto menos, compleja. El desmedido nivel de desigualdad conlleva a la existencia de dinámicas económicas diferenciadas dependiendo de la región tratada; a pesar de haber visto ya dos elementos comunes (concentración de tierras y narcotráfico). Así pues, nos centraremos en un macroanálisis tras la apertura económica del gobierno de César Gaviria.
 
@@ -141,7 +166,8 @@ Ahora bien, ¿esto qué significó en las economías locales? Villa, Restrepo y 
 
 Estos datos, entonces, no se contradicen con la tesis de Schneider<sup>[\[33\]](#footnote-33)</sup>: el crecimiento del PIB departamental viene de las actividades económicas bajo el marco institucional. El tamaño de la economía oculta, la del narcotráfico y minería ilegal, se correlaciona directamente con la intensidad de la violencia y de manera inversa con la producción económica legal. Dicho de otro modo: la expansión de economía del narcotráfico y la minería se retroalimentan con el conflicto local y ambos debilitan las actividades económicas legales. La economía colombiana no pudo crecer de acuerdo con su potencial.
 
-**1.3. Dos tragedias a 10.000Km de distancia**
+### 1.3 Dos tragedias a 10.000 Km de distancia
+
 
 Una de las tesis más destacadas de (García Villegas, El país de las emociones tristes 2020) al analizar las dinámicas de la guerra en Colombia es la de la violencia como continuación naturalizada a la política. Cuando existe un disenso en lo fundamental, el colombiano toma las armas. En Ruanda la dinámica fue distinta: la violencia surgió a partir de una combinación de fundamentalismos étnicos, discriminación sistémica y crisis económicas y humanitarias. El resultado, sin embargo, no difiere mucho el uno del otro: una guerra degenerada donde el pueblo comete las peores barbaries contra él mismo sea por tribu étnica o tribu política.
 
@@ -151,17 +177,21 @@ Cuando intentamos hacer un paralelismo entre los conflictos de Ruanda y Colombia
 
 Ahora, ¿cómo unir una sociedad fragmentada y herida? ¿cómo resolver estas desigualdades? Cada país llegó a su propia conclusión.
 
-**2\. Reconstrucción**
+## 2. Reconstrucción
 
-**2.1. Caso I: Ruanda**
 
-**2.1.1. Gobierno, desarrollo y democracia**
+### 2.1 Caso I: Ruanda
+
+
+#### 2.1.1 Gobierno, desarrollo y democracia
+
 
 La guerra civil culminó su peor momento el 15 de julio de 1994 con la toma del poder del FPR bajo el comando de Paul Kagame. El FPR ha gobernado el país desde entonces; el actual presidente Kagame lleva 22 años en el poder años a través de elecciones que observadores han calificado como “irregulares”<sup>[\[34\]](#footnote-34)</sup>. El gobierno ha sido criticado repetidas veces por organismos internacionales de ser represivo y autoritario. Tiene múltiples denuncias de violaciones de derechos humanos, incluso de disidentes en exilio<sup>[\[35\]](#footnote-35)</sup>. Sin embargo, este autoritarismo le ha permitido a Ruanda tener una amplia estabilidad política que ha asegurado la continuidad de los programas de desarrollo socioeconómico gubernamentales. El mismo Kagame se refiere al país como la “Singapur de África”, reconociendo el peculiar sistema de dicho país que combina una fuerte autocracia con un capitalismo de libre mercado y es reconocido por su desarrollo económico.
 
 El modelo de desarrollo de Ruanda ha sido descrito como de _patrimonialismo desarrollista_, término acuñado por el Programa de Poder y Política en África que refiere a un patrón donde la élite gobernante de un país centraliza las rentas económicas con el objetivo de maximizar las ganancias en el largo plazo, en vez de buscar un beneficio inmediato<sup>[\[36\]](#footnote-36)</sup>. Veremos más adelante cuáles han sido sus resultados.
 
-**2.1.2. El tejido social: _Gacaca_**
+#### 2.1.2 El tejido social: _Gacaca_
+
 
 Un evento tan traumático como lo fue el genocidio ruandés deja heridas profundas y duraderas. Conociendo ya la homogeneidad socioespacial entre tribus, la línea entre perpetrador y víctima se hizo borrosa: tus propios vecinos podrían ser tus verdugos. El caos tan puro que se vivió en esos 100 días hace imposible saber quién mató a quién. Este es uno de los efectos de la guerra que mencionó Collier<sup>[\[37\]](#footnote-37)</sup>: ¿luego de tal matanza, en quién se puede confiar? Consecuentemente las relaciones comerciales se complicaron en el tiempo inmediato al genocidio. Entre 1,5 y 2 millones de Hutus, temiendo una retaliación por parte del gobierno Tutsi del FPR, huyeron principalmente al Zaire (hoy República Democrática del Congo) y otros países cercanos<sup>[\[38\]](#footnote-38)</sup>; algunos formando milicias en exilio. Aún hay un estimado de 270.000 ruandeses refugiados en otros países<sup>[\[39\]](#footnote-39)</sup>.
 
@@ -169,7 +199,8 @@ La reconstrucción del tejido social ha sido un elemento central para la recuper
 
 Ahora bien, este punto no está exento de críticas. Organizaciones como Human Rights Watch han señalado que estas cortes han cometido errores judiciales (los involucrados no tenían necesariamente ninguna formación judicial) o se utilizaron irregularmente para decidir asuntos personales. Adicionalmente, se ha señalado que los crímenes juzgados allí y en los tribunales nacionales convencionales no han incluido personas pertenecientes al FPR, a pesar de existir señalamientos en contra de la otrora guerrilla<sup>[\[42\]](#footnote-42)</sup>.
 
-**2.1.3. Visión Ruanda 2020**
+#### 2.1.3 Visión Ruanda 2020
+
 
 En julio del 2000, el gobierno de Ruanda lanzó el programa Visión 2020, estableciendo una hoja de ruta para que, en ese año, el país se convirtiera en uno de medianos ingresos. El plan se estructuró alrededor de 6 pilares fundamentales:
 
@@ -234,7 +265,8 @@ El documento estableció 47 indicadores para monitorear el progreso del plan, lo
 
 Tabla 2. Revisión del cumplimiento de los objetivos del programa Visión 2020<sup>[\[53\]](#footnote-53)</sup><sup>[\[54\]](#footnote-54)</sup>. Datos del Banco Mundial<sup>[\[55\]](#footnote-55)</sup> a menos de que se indique lo contrario
 
-**2.1.4. Resultados y controversias**
+#### 2.1.4 Resultados y controversias
+
 
 A pesar de que sólo alrededor de la mitad de los indicadores del programa Visión 2020 alcanzaron sus objetivos o hicieron progresos considerables, puede parecer extraña la fama que ha tomado Ruanda como ejemplo de desarrollo. Esto se debe a dos razones: uno, los objetivos del plan eran, a menudo, demasiado ambiciosos (especialmente tras la revisión de 2012); y dos, estos avances también se deben ver con relación a la región: en este caso, la de los Grandes Lagos.
 
@@ -264,9 +296,11 @@ La idea clave que ha dirigido la política del RPF, dicen Booth y Golooba, es qu
 
 Este modelo, junto con el singapurense, se pueden dar la libertad de cuestionar la eficiencia de la democracia occidental. Sus avances en términos económicos y de desarrollo no se ven como menos de “milagros” en ojos occidentales. Sin embargo, también es cuestionable la concentración del poder en un solo partido pues permite más fácilmente el abuso de poder.
 
-**2.2. Caso II: Colombia**
+### 2.2 Caso II: Colombia
 
-**2.2.1. Un café en La Habana**
+
+#### 2.2.1 Un café en La Habana
+
 
 La presidencia de Álvaro Uribe –de 2002 a 2010– es, cuanto menos, polémica. Tuvo grandes logros en términos de desempleo, inversión, seguridad y rendimiento económico; mas también tiene numerosas críticas en cuanto a violaciones a los derechos humanos (como las ejecuciones extrajudiciales, famosos “falsos positivos”), corrupción y paramilitarismo. Sin embargo, algo es innegable: su política de “mano dura” de Seguridad Democrática fue extremadamente efectiva en el conflicto con las guerrillas, reversando las ganancias territoriales y de poder que estas habían conseguido las dos décadas anteriores. Este fue un factor clave para que las ahora extintas FARC accedieran a una salida negociada: la toma del poder por medios armados se había vuelto inviable (Santos 2019).
 
@@ -278,7 +312,8 @@ Mapa 4. Votación en el plebiscito para la paz de 2016<sup>[\[61\]](#footnote-61
 
 Adicionalmente, creo importante destacar _quiénes votaron por qué_. Si se compara con los mapas anteriores, se puede notar un patrón de división dentro de Colombia: las regiones más azotadas por el conflicto y el narcotráfico, las más pobres, fueron en las que predominó el “Sí”; mientras que las regiones centrales, más ricas y con una menor afectación del conflicto, se inclinaron por rechazar el Acuerdo. Este en un patrón que se ha repetido en diversas ocasiones, y da cuenta de la gigantesca desigualdad que azota a la sociedad colombiana.
 
-**2.2.2. Justicia, tierra y paz**
+#### 2.2.2 Justicia, tierra y paz
+
 
 El Acuerdo Final se fundó también en 6 pilares fundamentales<sup>[\[62\]](#footnote-62)</sup>:
 
@@ -297,7 +332,8 @@ Por otro lado, el documento hace una ambiciosa propuesta de reforma rural en un 
 
 El problema de la tierra, la violencia y el narcotráfico: los tres factores principales cuyos negativos efectos económicos estudiamos en una sección anterior. El Acuerdo no sólo está encaminado a la reconciliación social sino al desarrollo económico a largo plazo intentando resolver problemas históricos.
 
-**2.2.3. Del papel a la tierra**
+#### 2.2.3 Del papel a la tierra
+
 
 Ahora, llevar las palabras del papel a la práctica es un mundo aparte. Diversas organizaciones han hecho seguimiento al cumplimiento de los 578 objetivos del Acuerdo; de ellas, el Instituto Kroc destaca como la más completa de ellas. Todos los valores están como porcentajes del total de objetivos. Veamos:
 
@@ -316,7 +352,8 @@ Según el mismo Instituto, los primeros cinco años de un acuerdo de paz son fun
 
 Esto se evidencia en el día a día del país, con el masivo repunte que ha tenido en términos de violencia: las FARC dejaron un vacío de poder que el Estado no pudo llenar y ahora está disputando con las disidencias, el ELN y los paramilitares. Según el Comité Internacional de la Cruz Roja (CICR)<sup>[\[64\]](#footnote-64)</sup>, hay un total de 6 conflictos armados simultáneos en Colombia. El índice de Gini no ha tenido cambios considerables, pues la reforma rural ha encontrado una miríada de obstáculos en su implementación. Y además de todo, la pandemia de Sars-Cov-2 paralizó una gran parte de los procesos de implementación.
 
-**2.3. Reconstruyendo un país roto**
+### 2.3 Reconstruyendo un país roto
+
 
 Las estrategias de reconstrucción social, política y económica de Colombia y Ruanda difieren desde su concepción, pero abordan problemas similares. Veamos:
 
@@ -326,7 +363,8 @@ De la mano va la construcción del estado en los distinto escenarios nacionales.
 
 Ahora, la solución de las desigualdades históricas: Ruanda busca eliminar las etiquetas de Hutu, Tutsi y Twa procurando un nivel de desarrollo similar igual para todos… excepto el mismo FPR, una guerrilla originalmente Tutsi. Cubre una vieja desigualdad y la reemplaza por una moderna, basada en las clases; pero la mejora en la calidad de vida que han sentido los ruandeses hace que, para ellos, no importe: un modelo muy similar al de Singapur. Colombia busca resolver la concentración histórica de la riqueza y la tierra a través de reformas redistributivas. Aquí, de nuevo, florece la ineficiencia del estado.
 
-**Conclusiones**
+## Conclusiones
+
 
 Colombia y Ruanda han pasado por dos crisis que, a primera vista, son muy distintas: su duración, sus contrincantes, sus condiciones y sus motivos parecen ser dos mundos separados. Sin embargo, podemos encontrar una esencia en común, y a partir de ahí intentar hacer un aprendizaje mutuo para el posconflicto y el desarrollo económico de cada uno.
 
@@ -336,9 +374,11 @@ Por otro lado, también tenemos la coyuntura de sanar y unir una sociedad herida
 
 Finalmente, la raíz de los conflictos, una de esas cosas que no permiten a los países despegar en su desarrollo, es la cuestión de las barreras sistémicas. En Ruanda, la barrera que se está superando es la de la fragmentación tribal y su derivación en la violencia; al mismo tiempo que se está gestando otra basada en las clases sociales y riqueza. En Colombia, la barrera viene de la inequidad en cuanto a riqueza, íntimamente ligada a la tierra en un país tradicionalmente agricultor. La superación de esta barrera es la que permitirá que Colombia eventualmente logre desarrollar todo su potencial.
 
-# **Bibliografía**
+## Bibliografía
 
-**Fuentes primarias**
+
+### Fuentes primarias
+
 
 Archivo Nacional del Genocidio de Ruanda. «Identity Card.» Kigali, 1993.
 
@@ -366,7 +406,8 @@ Roser, Max, y Esteban Ortiz-Ospina. «Global Extreme Poverty.» _Our World in Da
 
 World Bank. «Rwanda Economic Profile.» 2022.
 
-**Fuentes secundarias**
+### Fuentes secundarias
+
 
 Álvarez, Eduardo y Juan Carlos Garzón. «Votando por la paz: Entendiendo la ventaja del “No”», Fundación Ideas para la Paz. 2016.
 
