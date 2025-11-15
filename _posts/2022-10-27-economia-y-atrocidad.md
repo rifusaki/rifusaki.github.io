@@ -20,14 +20,7 @@ toc_sticky: true
 
 [Descargar el artículo en PDF ↗](https://github.com/rifusaki/rifusaki.github.io/blob/main/assets/files/La%20economia%20y%20la%20atrocidad%20guerra%20en%20Ruanda%20y%20Colombia.pdf){: .btn .btn--primary .mb-5 }
 
-El conflicto armado interno en Colombia ha sido objeto de intenso estudio por académicos en esencialmente todos los aspectos posibles: estamos hablando de una de las guerras más largas del hemisferio occidental, durando casi 60 años. El genocidio de Ruanda, en 1994, no ha tenido ese tratamiento, a pesar de ser uno de los más atroces eventos acontecidos: conllevó el asesinato del 70% de la población de la tribu Tutsi. El presente trabajo pretende hacer un paralelismo, visto desde la historia económica, de las causas fundamentales, las consecuencias y los procesos de reconstrucción posconflicto de ambas naciones, considerando que la guerra civil en Ruanda terminó en 1995, mientras que el Acuerdo de paz con las FARC-EP en Colombia se firmó en el 2016. Así pues, se estudiará la historia antes y después de la terminación del conflicto en ambos países, identificando elementos comunes y diferenciadores para hacer un ejercicio de historia comparada para extraer aprendizajes mutuos para el posconflicto. A primera vista, una guerra prolongada de baja intensidad no parece tener muchas similitudes con una guerra civil de 5 años, pero la originalidad del artículo se encuentra precisamente allí. No se ha hecho una comparación similar hasta la fecha.
-
-> **Tres factores económicos que determinan el posconflicto**
->
-> - Un Estado presente y eficiente (aunque no necesariamente democrático).
-> - Procesos de verdad y reconciliación que reconstruyan la confianza.
-> - Remoción de barreras sistémicas que bloquean el desarrollo y alimentan la violencia.
-{: .notice--info}
+El conflicto armado interno en Colombia ha sido objeto de intenso estudio por académicos en esencialmente todos los aspectos posibles: estamos hablando de una de las guerras más largas del hemisferio occidental, durando casi 60 años. El genocidio de Ruanda, en 1994, no ha tenido ese tratamiento, a pesar de ser uno de los más atroces eventos acontecidos: conllevó el asesinato del 70% de la población de la tribu Tutsi. El presente trabajo pretende hacer un paralelismo, visto desde la historia económica, de las causas fundamentales, las consecuencias y los procesos de reconstrucción posconflicto de ambas naciones, considerando que la guerra civil en Ruanda terminó en 1995, mientras que el Acuerdo de paz con las FARC-EP en Colombia se firmó en el 2016. Así pues, se estudiará la historia antes y después de la terminación del conflicto en ambos países, identificando elementos comunes y diferenciadores para hacer un ejercicio de historia comparada para extraer aprendizajes mutuos para el posconflicto. A primera vista, una guerra prolongada de baja intensidad no parece tener muchas similitudes con una guerra civil de 5 años, pero la originalidad del artículo se encuentra precisamente allí. No se ha hecho una comparación similar hasta la fecha. Se encuentran tres factores fundamentales que causan un conflicto y cuyas soluciones entrelazadas pueden ser la receta para un posconflicto exitoso y un desarrollo económico: un Estado presente y eficiente (aunque no necesariamente democrático); un proceso de verdad y reconciliación nacional que restablezca los lazos de confianza y comerciales entre la población; y la remoción de ciertas barreras sistémicas que no permiten el desarrollo de ciertos grupos y, más bien, promueven el conflicto.
 
 ## Introducción
 
@@ -41,13 +34,7 @@ Así pues, el presente trabajo pretende contrastar las causas en materia princip
 
 ## 1. Economía y conflicto
 
-Para comenzar a comprender los efectos del conflicto, la tragedia y la atrocidad en las relaciones económicas de una sociedad, Collier<sup>[\[7\]](#footnote-7)</sup> identifica tres consecuencias inmediatas que afectan directamente el crecimiento económico:
-
-1. **Destrucción o fuga de capital nacional.**
-2. **Militarización de la economía**, que desvía recursos productivos hacia defensa y seguridad.
-3. **Aumento en los costos de transporte** por el daño a la infraestructura.
-
-Todo esto, claro, además del costo humano que disminuye el capital de trabajo (más difícil de recuperar) y deteriora el tejido social, menoscabando la confianza en las instituciones y en los grupos (étnicos, políticos, etc.) exteriores lo cual, a su vez, impacta negativamente las relaciones de intercambio entre ellos<sup>[\[8\]](#footnote-8)</sup>.
+Para comenzar a comprender los efectos del conflicto, la tragedia y la atrocidad en las relaciones económicas de una sociedad, Collier<sup>[\[7\]](#footnote-7)</sup> identifica tres consecuencias inmediatas que afectan directamente el crecimiento económico de: primero, la destrucción o fuga de capital nacional; segundo, la militarización que desvía los recursos normalmente utilizados en productividad hacia el sector de defensa y seguridad; y tercero, un mayor costo de transporte debido a los daños a la infraestructura física del país. Todo esto, claro, además del costo humano que disminuye el capital de trabajo (más difícil de recuperar) y deteriora el tejido social, menoscabando la confianza en las instituciones y en los grupos (étnicos, políticos, etc.) exteriores lo cual, a su vez, impacta negativamente las relaciones de intercambio entre ellos<sup>[\[8\]](#footnote-8)</sup>.
 
 No obstante, estas consecuencias solamente son aplicables en el caso de economías formalizadas, que no es el único caso que veremos en este trabajo. Por tanto, es necesario mencionar un modelo alternativo. En economías mixtas o con un alto grado de informalidad e ilegalidad, Schneider defiende que las actividades informales, ilegales o “grises” ven un crecimiento en presencia de la violencia a través de un amplio estudio de la economía informal varios países.<sup>[\[9\]](#footnote-9)</sup>
 
