@@ -12,7 +12,7 @@ sidebar:
     text: "[alhazacod/heat_eq_t_dependant_boundary](https://github.com/alhazacod/heat_eq_t_dependant_boundary)"
 #   - title: "Responsibilities"
 #     text: "Reuters try PR stupid commenters should isn't a business model"
-order: 1
+order: 2
 ---
 
 > [Leer texto completo](https://github.com/rifusaki/rifusaki.github.io/blob/main/assets/files/Ecuacion%20de%20difusion.pdf)

@@ -6,6 +6,6 @@ collection: portfolio
 # classes: wide
 author_profile: true
 sort_by: order
-sort_order: reverse
+sort_order: normal
 ---
 

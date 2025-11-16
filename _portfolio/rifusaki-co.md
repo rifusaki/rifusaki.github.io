@@ -1,6 +1,6 @@
 ---
 title: "rifusaki.co"
-excerpt: ""
+excerpt: "You're here!"
 author_profile: true
 # header:
 #   image: /assets/images/foo-bar-identity.jpg
@@ -12,7 +12,7 @@ sidebar:
     text: "[rifusaki/rifusaki.github.io](https://github.com/rifusaki/rifusaki.github.io)"
 #   - title: "Responsibilities"
 #     text: "Reuters try PR stupid commenters should isn't a business model"
-order: 3
+order: 4
 ---
 
 You are here!
