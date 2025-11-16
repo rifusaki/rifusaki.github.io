@@ -5,6 +5,8 @@ permalink: /CV/
 author_profile: true
 ---
 
+> [Read in english](/CV-en)
+
 Estudiante de física en la Universidad Nacional de Colombia e iangeniera de datos en Intwo. Con experiencia en análisis de datos, visualización y desarrollo de pipelines de datos. Competente en Python (pandas, numpy, scipy, matplotlib) y R (ggplot2) para procesamiento y análisis de datoas. Actualmente desarrollando habilidades en aprendizaje automático con PyTorch y sistemas de información geográfica. Experiencia en trabajo colaborativo, investigación, traducción técnica, y transversalización de los temas de género y sexualidad en el ámbito universitario.
 
 *Análisis de datos • Python • R • SQL • Machine Learning • Visualización de datos*

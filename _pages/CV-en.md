@@ -5,6 +5,8 @@ permalink: /CV-en/
 author_profile: true
 ---
 
+> [Leer en español](/CV)
+
 Physics student at Universidad Nacional de Colombia and Data Engineer at Intwo with experience in data analysis, visualization, and data pipeline development. Proficient in Python (pandas, numpy, scipy, matplotlib) and R (ggplot2) for data processing and analysis. Currently developing skills in machine learning with PyTorch and geographic information systems. Experience in collaborative work, research, technical translation, and mainstreaming gender and sexuality topics in the university environment.
 
 *Data Analysis • Data Engineering • Python • R • SQL • Machine Learning • Data Visualization*
