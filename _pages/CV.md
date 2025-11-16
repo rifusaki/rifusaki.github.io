@@ -5,7 +5,7 @@ permalink: /CV/
 author_profile: true
 ---
 
-Estudiante de física en la Universidad Nacional de Colombia con experiencia en análisis de datos, visualización y desarrollo de pipelines de datos. Competente en Python (pandas, numpy, scipy, matplotlib) y R (ggplot2) para procesamiento y análisis de datos. Actualmente desarrollando habilidades en aprendizaje automático con PyTorch y sistemas de información geográfica. Experiencia en trabajo colaborativo, investigación y traducción técnica.
+Estudiante de física en la Universidad Nacional de Colombia e iangeniera de datos en Intwo. Con experiencia en análisis de datos, visualización y desarrollo de pipelines de datos. Competente en Python (pandas, numpy, scipy, matplotlib) y R (ggplot2) para procesamiento y análisis de datoas. Actualmente desarrollando habilidades en aprendizaje automático con PyTorch y sistemas de información geográfica. Experiencia en trabajo colaborativo, investigación, traducción técnica, y transversalización de los temas de género y sexualidad en el ámbito universitario.
 
 *Análisis de datos • Python • R • SQL • Machine Learning • Visualización de datos*
 
@@ -24,6 +24,9 @@ Estudiante de física en la Universidad Nacional de Colombia con experiencia en 
 
 
 ## Experiencia
+<h3>Ingeniera de datos — Intwo</h3>
+<p align="right"><i>nov. 2025 - actualidad</i></p>
+
 
 <h3>Agente del servicio de atención al cliente — Concentrix</h3>
 <p align="right"><i>oct. 2024 - mar. 2025 · 6 meses</i></p>
@@ -35,7 +38,7 @@ Atención al cliente en entorno de alto volumen, manejo de sistemas de gestión 
 <h3>Miembro del equipo de dirección - REDai UNAL</h3>
 <p align="right"><i>oct. 2022 - feb. 2023 · 5 meses</i></p>
 
-Proyecto UNGen de la Red Estudiantil de Acompañamiento Integral de la Universidad Nacional de Colombia. Realicé análisis de datos de encuestas para identificar patrones de violencias basadas en género en el campus, generando insights que orientaron estrategias de comunicación y prevención en redes sociales.\
+Hice parte del proyecto UNGen de la Red Estudiantil de Acompañamiento Integral de la Universidad Nacional de Colombia. Nuestro equipo se especializa en la investigación, promoción, acompañamiento y divulgación de temas concernientes a igualdad de género y diversidades de género y sexuales. Realicé análisis de datos de encuestas para identificar patrones de violencias basadas en género en el campus, generando insights que orientaron estrategias de comunicación y prevención en redes sociales.\
 <small>Análisis de datos • Redacción • Diseño gráfico • Elaboración de informes • Fotografía digital • Elaboración de propuestas</small>
 
 
@@ -49,15 +52,15 @@ Redacción y traducción de textos académicos y técnicos en diversas áreas de
 ## Educación
 
 <h3>BS, Física - Universidad Nacional de Colombia</h3>
-<p align="right"><i>jul. 2020 - jun. 2025</i></p>
+<p align="right"><i>jul. 2020 - dic. 2026</i></p>
 
-Énfasis en física computacional, análisis y modelado de datos. Experiencia en procesamiento de datos experimentales, simulaciones numéricas y visualización de resultados.\
+Pregrado en Física. Énfasis en física computacional, análisis y modelado de datos. Experiencia en procesamiento de datos experimentales, simulaciones numéricas y visualización de resultados.\
 <small>Computación • Modelado de datos • Ciencia de datos • Análisis de datos • Tecnología de la información • C++ • Visualización de datos • Python • R • Microsoft Office • Redacción • Redacción de textos académicos • LaTeX • Modelado de sistemas físicos • Traducción • Física computacional</small>
 
 
 ## Proyectos
 
-### [Catnip](/portfolio/catnip/)
+### [catnip](/portfolio/catnip/)
 <p align="right"><i>en desarrollo</i></p>
 
 Sistema de aprendizaje automático para identificación de rostros de personajes de manga utilizando PyTorch. Incluye procesamiento de imágenes, extracción de características y entrenamiento de modelos de visión por computadora.\

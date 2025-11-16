@@ -5,9 +5,9 @@ permalink: /CV-en/
 author_profile: true
 ---
 
-Physics student at Universidad Nacional de Colombia with experience in data analysis, visualization, and data pipeline development. Proficient in Python (pandas, numpy, scipy, matplotlib) and R (ggplot2) for data processing and analysis. Currently developing skills in machine learning with PyTorch and geographic information systems. Experience in collaborative work, research, and technical translation.
+Physics student at Universidad Nacional de Colombia and Data Engineer at Intwo with experience in data analysis, visualization, and data pipeline development. Proficient in Python (pandas, numpy, scipy, matplotlib) and R (ggplot2) for data processing and analysis. Currently developing skills in machine learning with PyTorch and geographic information systems. Experience in collaborative work, research, technical translation, and mainstreaming gender and sexuality topics in the university environment.
 
-*Data Analysis • Python • R • SQL • Machine Learning • Data Visualization*
+*Data Analysis • Data Engineering • Python • R • SQL • Machine Learning • Data Visualization*
 
 
 ## Technical Skills
@@ -24,6 +24,12 @@ Physics student at Universidad Nacional de Colombia with experience in data anal
 
 
 ## Experience
+
+<h3>Data Engineer — Intwo</h3>
+<p align="right"><i>Nov. 2025 - Present</i></p>
+
+Data engineering role focused on building and maintaining data pipelines, processing workflows, and analytics infrastructure.\
+<small>Data engineering • Data pipelines • Python • SQL • Cloud computing</small>
 
 <h3>Customer Service Agent — Concentrix</h3>
 <p align="right"><i>Oct. 2024 - Mar. 2025 · 6 months</i></p>
@@ -49,7 +55,7 @@ Writing and translation of academic and technical texts across various knowledge
 ## Education
 
 <h3>BS, Physics - Universidad Nacional de Colombia</h3>
-<p align="right"><i>Jul. 2020 - Jun. 2025</i></p>
+<p align="right"><i>Jul. 2020 - Dec. 2026</i></p>
 
 Focus on computational physics, data analysis and modeling. Experience in experimental data processing, numerical simulations, and results visualization.\
 <small>Computing • Data modeling • Data science • Data analysis • Information technology • C++ • Data visualization • Python • R • Microsoft Office • Writing • Academic writing • LaTeX • Physical systems modeling • Translation • Computational physics</small>
@@ -57,7 +63,7 @@ Focus on computational physics, data analysis and modeling. Experience in experi
 
 ## Projects
 
-### [Catnip](/portfolio/catnip/)
+### [catnip](/portfolio/catnip/)
 <p align="right"><i>in development</i></p>
 
 Machine learning system for manga character face identification using PyTorch. Includes image processing, feature extraction, and training of computer vision models.\
@@ -126,7 +132,7 @@ Translation of technical content related to the environment and the transition t
 
 ## Courses
 
-### National Seminar: Together. Contributions from Feminist and Gender Studies
+### National Seminar: Juntas, Juntes y Juntos – Approaches from Feminist and Gender Studies
 <p align="right"><small>Associated with Universidad Nacional de Colombia</small></p>
 
 ### General Economic History
