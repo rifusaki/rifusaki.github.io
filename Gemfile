@@ -17,3 +17,7 @@ group :jekyll_plugins do
 end
 
 gem 'webrick'
+gem 'logger'
+gem 'csv'
+gem 'ostruct'
+gem 'faraday-retry'
