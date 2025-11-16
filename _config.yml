@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Martina García"
-  avatar : "/assets/images/martina2.jpg"
+  avatar : "/assets/images/martina2.jpeg"
   bio    : "Physics student, photographer, coder, athlete, sometimes artist."
   links:
     - label: "Mail"
