@@ -5,7 +5,7 @@ author_profile: true
 sidebar:
   - title: "Repo"
     text: "[rifusaki/whisker](https://github.com/rifusaki/whisker)"
-order: 4
+order: 5
 ---
 
 A simple Telegram bot to transcribe voice notes and audios using `openai-whisper`. I am not particularly fond of voice notes.

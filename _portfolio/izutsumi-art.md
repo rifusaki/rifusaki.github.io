@@ -7,7 +7,7 @@ sidebar:
     text: "[izutsumi.art](https://izutsumi.art/)"
   - title: "Repo"
     text: "[rifusaki/izutsumi.art](https://github.com/rifusaki/izutsumi.art)"
-order: 3
+order: 4
 ---
 
 # izutsumi.art

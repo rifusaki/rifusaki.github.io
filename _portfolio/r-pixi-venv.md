@@ -5,7 +5,7 @@ author_profile: true
 sidebar:
   - title: "Repo"
     text: "[rifusaki/r-pixi-venv](https://github.com/rifusaki/r-pixi-venv)"
-order: 2
+order: 3
 ---
 
 A VS Code extension to use Pixi-managed virtual environments on R and Quarto. There is support for Pixi-managed R on RStudio/Positron but this is for those who would rather stay in VS Code. I'm not sure about Quarto, though.

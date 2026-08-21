@@ -12,7 +12,7 @@ sidebar:
     text: "[rifusaki/rifusaki.com](https://github.com/rifusaki/rifusaki.com)"
 #   - title: "Responsibilities"
 #     text: "Reuters try PR stupid commenters should isn't a business model"
-order: 8
+order: 9
 ---
 
 You are here!

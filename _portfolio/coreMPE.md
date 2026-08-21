@@ -5,7 +5,7 @@ author_profile: true
 sidebar:
   - title: "Repo"
     text: "[rifusaki/coreMPE](https://github.com/rifusaki/coreMPE)"
-order: 7
+order: 8
 ---
 
 # coreMPE

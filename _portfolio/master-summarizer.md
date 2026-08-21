@@ -5,7 +5,7 @@ author_profile: true
 sidebar:
   - title: "Repo"
     text: "[rifusaki/master-summarizer](https://github.com/rifusaki/master-summarizer)"
-order: 6
+order: 7
 ---
 
 Caffeine-powered, vibe-coded multi-agent document summarization pipeline initially developed for processing Colombian municipal planning documents into a styled executive summary and 80-100 PowerPoint slide outlines. The entire pipeline coordinates multiple LLM models through an OpenCode server.

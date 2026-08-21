@@ -5,7 +5,7 @@ author_profile: true
 sidebar:
   - title: "Repo"
     text: "[rifusaki/linkedin-markdownificator](https://github.com/rifusaki/linkedin-markdownificator)"
-order: 4
+order: 5
 ---
 
 As the name suggests, you can use this tool to export your LinkedIn profile to Markdown. From there you can export it to PDF however you like.

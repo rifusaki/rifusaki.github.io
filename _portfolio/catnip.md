@@ -1,6 +1,6 @@
 ---
 title: "catnip"
-excerpt: "Extracting all Izutsumi panels since 2025. A work in progress."
+excerpt: "Answering the age-old question: is Izutsumi in this image? A two-stage detect-and-identify pipeline."
 author_profile: true
 # header:
 #   image: /assets/images/foo-bar-identity.jpg
@@ -15,31 +15,27 @@ sidebar:
 order: 1
 ---
 
-> A work in progress
+> a two-stage pipeline, still very much a work in progress
 
-Catnip is a small Jupyter notebook for those obsessive lovers of a specific manga character with spare time and computing power.
+Catnip tries to answer one important question: is Izutsumi in this image? It runs a two-stage pipeline: first detect, then identify over Dungeon Meshi manga pages. Nothing is exported yet.
 
-Input some manga pages, add some seeds, and rejoice at the sight of 40 previews of matches. I haven't implemented an actual method to export the files. Yet.
+## The pipeline
 
-## Experimental Branches
-While the main branch acts as a baseline, there is active experimentation in several alternative branches exploring different bounding box (BBO) approaches, models, and environments:
-- [`legacy-keras`](https://github.com/rifusaki/catnip/tree/legacy-keras): Older experimental Keras implementations.
-- [`yolo-bbo`](https://github.com/rifusaki/catnip/tree/yolo-bbo): Utilizing YOLO-based models specifically tuned for Anime/Manga bounding boxes.
-- [`yolo-windows`](https://github.com/rifusaki/catnip/tree/yolo-windows): Windows-specific testing and pathing for YOLO pipelines.
+**1. Localization (SAHI + YOLO26n).** Find where bodies and faces are. A YOLO26n model runs over full manga pages that SAHI slices into overlapping 640×640 patches to handle different scales. The training set is pre-sliced with the same parameters.
 
-## Usage
-This is how I'm testing this. So far.
+**2. Re-Identification (`refactor/reID` branch).** Find Izutsumi herself. Metric learning:
 
-- I suggest using [Pixi](https://pixi.sh/latest/) for package management
-- Set up a directory with sample manga pages where the desired character appears
-- Run panel and facial cropping cells
-- Collect samples of the desired character in a separate directory
-- Run panel/facial cropping cells for the rest of the manga and wait
-- Point to seeds (samples) directory, run the nearest neighbor algorithm and wait (again)
+- Backbone is a ResNet18 (ImageNet-pretrained) with GeM pooling.
+- Loss* Triplet Loss with hard-negative mining.
+- Manually labeled crops Label Studio crops plus Stage 1 detector crops.
+- FAISS `IndexFlatIP` over L2-normalized embeddings w/ cosine similarity for matching. Optional LogisticRegression re-ranking.
 
-### Comments
-Adenzu's Panel Extractor algorithm is excellent but takes a long time to run, even without split-cell. [panelExtraction.py](src/panelExtraction.py) includes a faster albeit more basic and somewhat less accurate approach.
 
-### Credits
-- [adenzu/Manga-Panel-extractor](https://github.com/adenzu/Manga-Panel-Extractor)
-- [Fuyucch1/yolov8_animeface](https://github.com/Fuyucch1/yolov8_animeface/tree/main?tab=readme-ov-file)
+## Datasets
+
+The same annotations feed both stages:
+
+- **izutsumi**: My own manually labeled dataset. A bunch of Izutsumi crops.
+- [manga109](https://huggingface.co/datasets/hal-utokyo/Manga109): Parsed and normalized with [manga109api](https://github.com/manga109/manga109api) (face, body, text, and frame objects).
+- [deepghs/anime_head_detection](https://huggingface.co/datasets/deepghs/anime_head_detection): YOLOv8 head detection data (v1.0, v2.0, and the third-party `ani_face_detection`).
+- [nyuuzyou/AnimeHeadsv3](https://huggingface.co/datasets/nyuuzyou/AnimeHeadsv3): COCO-format, augmented head dataset.
