@@ -7,11 +7,11 @@ author_profile: true
 
 > [Read in english](/CV-en)
 
-Estudiante de Física de la Universidad Nacional de Colombia con experiencia profesional en desarrollo de software orientado a datos e ingeniería de datos sobre Microsoft Azure. He diseñado y mantenido aplicaciones y pipelines en Python, Node.js y servicios en la nube, participando en la automatización de procesos, análisis de grandes volúmenes de información y construcción de soluciones tecnológicas para clientes empresariales.
+Estudiante de Física de la Universidad Nacional de Colombia con experiencia profesional en desarrollo de software orientado a datos: ingeniería de datos, ciencia de datos y analítica sobre Microsoft Azure. He diseñado y mantenido aplicaciones y pipelines en Python, Node.js y servicios en la nube, participando en la automatización de procesos, análisis de grandes volúmenes de información y construcción de soluciones tecnológicas para clientes empresariales.
 
 Poseo sólidos fundamentos en programación, modelamiento matemático y resolución de problemas complejos. Me interesa desarrollar mi carrera en análisis de datos e ingeniería de software backend, contribuyendo al diseño, mantenimiento y escalamiento de sistemas robustos y de alto impacto.
 
-Actualmente desarrollando habilidades en aprendizaje automático con PyTorch. Fuera del trabajo, entreno duatlón y practico fotografía.
+Actualmente desarrollando habilidades en aprendizaje automático con PyTorch. Fuera del trabajo, entreno triatlón y practico fotografía.
 
 ## Habilidades Técnicas
 
@@ -62,6 +62,7 @@ Entre los principales logros se destacan:
 - ⁠Desarrollo de un algoritmo de predicción de uso de recursos de máquinas virtuales mediante modelos autorregresivos y controladores PID, utilizado para optimizar la asignación de recursos computacionales entre distintas familias y regiones.
 - ⁠Diseño e implementación de dashboards de monitoreo y observabilidad en Power BI y Grafana para seguimiento de telemetría y costos.
 - ⁠Automatización de flujos de integración y transformación de datos, mejorando la eficiencia operativa y disponibilidad de información para usuarios finales.
+- ⁠Participación en la migración en curso de pipelines de datos hacia Databricks, apoyando la consolidación del procesamiento y almacenamiento de información sobre una plataforma unificada.
 
 <h3>Agente del servicio de atención al cliente — Concentrix</h3>
 {: style="margin-bottom: 0.5em;"}
@@ -97,7 +98,13 @@ Pregrado en Física. Énfasis en física computacional, análisis y modelado de 
 {: style="margin-bottom: 0.5em;"}
 <p align="right"><i>en desarrollo</i></p>
 
-Sistema de aprendizaje automático para identificación de rostros de personajes de manga—enfocado a uno en específico—utilizando PyTorch. Incluye procesamiento de imágenes, extracción de características y entrenamiento de modelos de visión por computadora.
+Sistema de re-identificación (re-ID) de personajes de manga—enfocado a uno en específico—utilizando PyTorch. Incluye extracción de paneles, procesamiento de imágenes, extracción de características y entrenamiento y evaluación de modelos de visión por computadora.
+
+### [catence](/portfolio/catence/)
+{: style="margin-bottom: 0.5em;"}
+<p align="right"><i>en desarrollo</i></p>
+
+Servidor MCP (Model Context Protocol) local, desarrollado en TypeScript y Python, para la normalización y consulta unificada de datos de entrenamiento provenientes de Garmin, Intervals.icu y Strava.
 
 ### [linkedin-markdownificator](/portfolio/linkedin-markdownificator/)
 {: style="margin-bottom: 0.5em;"}

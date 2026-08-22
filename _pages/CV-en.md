@@ -11,7 +11,7 @@ Physics student at Universidad Nacional de Colombia with professional experience
 
 I possess solid foundations in programming, mathematical modeling, and solving complex problems. I am interested in developing my career in data analysis and backend software engineering, contributing to the design, maintenance, and scaling of robust, high-impact systems.
 
-Currently developing skills in machine learning with PyTorch. Outside of work, I train for duathlon and practice photography.
+Currently developing skills in machine learning with PyTorch. Outside of work, I train for triathlon and practice photography.
 
 ## Technical Skills
 
@@ -97,7 +97,13 @@ Undergraduate degree in Physics. Emphasis on computational physics, data analysi
 {: style="margin-bottom: 0.5em;"}
 <p align="right"><i>in development</i></p>
 
-Machine learning system for identifying manga character faces—focused on one specific character—using PyTorch. Includes image processing, feature extraction, and computer vision model training.
+Manga character re-identification (re-ID) system—focused on one specific character—using PyTorch. Includes panel extraction, image processing, feature extraction, and computer vision model training and evaluation.
+
+### [catence](/portfolio/catence/)
+{: style="margin-bottom: 0.5em;"}
+<p align="right"><i>in development</i></p>
+
+Local MCP (Model Context Protocol) server, developed in TypeScript and Python, for the normalization and unified querying of training data from Garmin, Intervals.icu, and Strava.
 
 ### [linkedin-markdownificator](/portfolio/linkedin-markdownificator/)
 {: style="margin-bottom: 0.5em;"}
