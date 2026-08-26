@@ -7,7 +7,7 @@ author_profile: true
 
 > [Leer en español](/CV)
 
-Physics student at Universidad Nacional de Colombia with professional experience in data-oriented software development and data engineering on Microsoft Azure. I have designed and maintained applications and pipelines in Python, Node.js, and cloud services, participating in process automation, large-scale data analysis, and the construction of technological solutions for enterprise clients.
+Physics student at Universidad Nacional de Colombia with professional experience in data-oriented software development: data engineering, data science and analytics on Microsoft Azure. I have designed and maintained applications and pipelines in Python, Node.js, and cloud services, participating in process automation, large-scale data analysis, and the construction of technological solutions for enterprise clients.
 
 I possess solid foundations in programming, mathematical modeling, and solving complex problems. I am interested in developing my career in data analysis and backend software engineering, contributing to the design, maintenance, and scaling of robust, high-impact systems.
 
@@ -62,6 +62,7 @@ Key achievements include:
 - Development of a prediction algorithm for virtual machine resource usage using autoregressive models and PID controllers, used to optimize computational resource allocation across different families and regions.
 - Design and implementation of monitoring and observability dashboards in Power BI and Grafana for telemetry and cost tracking.
 - Automation of data integration and transformation workflows, improving operational efficiency and information availability for end users.
+- Participation in the ongoing migration of data pipelines to Databricks, supporting the consolidation of processing and storage on a unified platform.
 
 <h3>Customer service agent — Concentrix</h3>
 {: style="margin-bottom: 0.5em;"}
