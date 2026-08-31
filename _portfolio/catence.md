@@ -17,6 +17,8 @@ order: 2 # NEW TWO
 
 As a context, I'm both an endurance athlete and a data junkie. I already got a coach for all the serious stuff, but I wanted to hook up some—any—LLM to the insane amount of data collected from Garmin, derived on Intervals.icu (I don't pay for TrainingPeaks) and comparable efforts on Strava segments. Naturally, the first answer was a local MCP server for my current tooling.
 
+It does the usual shenanigans, like recovery, HRV trend, training load, activity detail, swim/bike/run progress, and such. But then, for example, you can compare your efforts over specific Strava segments. Or use Intervals... intervals.
+
 ## The gist
 
 - Garmin, Intervals.icu, and Strava ingestion with source-aware normalization.
@@ -25,21 +27,23 @@ As a context, I'm both an endurance athlete and a data junkie. I already got a c
 - A password-protected Chainlit Console with an authenticated dashboard.
 - A generated demo catalog to mess around.
 
-## Where Catence can help
+## Cool Things About It
 
-Catence is most useful when a question benefits from checking several local signals instead of reacting to a single score. The Console and MCP tools can help you explore questions such as:
+It's the only one I'm aware of that joins all three—admittedly arbitrary because they're the ones I use—sources. It doesn't depend on a live connection to either service, as it creates an offline local store.
 
-- Recovery and readiness: “What changed in my sleep, HRV, resting heart rate, stress, and recent load before today’s session?”
-- Training load: “Is this week harder than my recent baseline, and which sessions contributed most?”
-- Performance trends: “How has my threshold pace, cycling power, or swim efficiency changed across the season?”
-- Session review: “Compare this long run or interval set with similar recent efforts, including pace/power, heart rate, terrain, and recovery.”
-- Segments and gear: “Show my history on this climb,” or “which shoes and bikes have carried the most recent training volume?”
-- Data-quality review: “Which recent activities lack streams, power, health context, or a matching provider record?”
+You can use it as either an MCP server or deploy it as a web UI, depending on your setup. I have mine on a subdomain and it's pretty cool.
+
+I know there have been other MCPs developed and shared over here. So! What it does I didn't find in other servers:
+
+- Multi-source fusion. You can ask about Garmin and Intervals metrics in Strava segments on a single query.
+- Multi-athlete isolation. A single deployment can access several isolated athlete stores. This is mostly because I wanted my mom to be able to check her data.
+- Read-only by default. I purposefully made this read-only. There's nothing to write (other than Strava segment fetching) because this is not a coach.
+- Console with dashboard. Password-protected Chainlit UI with live sync progress and model switching, if you are not the terminal kind. This also means you could access it from a phone.
 
 ## Quick start
 
 ```sh
-npm install --global catence@beta
+npm install --global catence@latest
 catence-data setup --athlete alex --label "Alex"
 printf %s 'alex@example.com' | catence-data --athlete alex secret set --provider garmin --field email --value-stdin
 catence-data --athlete alex sync --provider all
@@ -47,6 +51,6 @@ catence-data --athlete alex build-retrieval-index
 catence
 ```
 
-`npx --yes catence@beta demo` also spins up a pretty fake generated dataset.
+`npx --yes catence@latest demo` also spins up a pretty fake generated dataset.
 
 > Requires Node.js 22+ and Python 3.12+ with [uv](https://docs.astral.sh/uv/).
